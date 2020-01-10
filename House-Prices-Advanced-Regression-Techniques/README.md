@@ -2,7 +2,7 @@
 
 ![](data/photo1.png)
 
-In this task, we predicted the sales price for each house. We used RMSE to measure the error rate of our regression models.
+> In this task, we predict the sales price for each house. RMSE was used to measure the error rate of our regression models.
 
 ### Data Description
 
