@@ -1,6 +1,6 @@
 ## House Prices: Advanced Regression Techniques
 
-![kaggle](data/photo1.png)
+![](data/photo1.png)
 
 In this task, we predicted the sales price for each house. We used RMSE to measure the error rate of our regression models.
 
